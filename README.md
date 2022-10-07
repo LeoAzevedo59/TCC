@@ -15,10 +15,10 @@ Esse trabalho busca resolver todas essas questões citadas acima, além de propo
 ajuda na hora de gerenciar seu capital, tendo uma visão ampla de onde está indo seu salário, onde estão aplicados seus investimentos e quantos eles estão rendendo, para que consiga tomar as melhores decisões. 
 
 #### Aplicativos correlatos
-### Itaú, Nubank, caju, inter, xp, trademap, mercado pago, kinvo, rico, ifood, netflix, mobills
+###### Itaú, Nubank, caju, inter, xp, trademap, mercado pago, kinvo, rico, ifood, netflix, mobills
 
 #### Palavras chaves 
-### Investimento, tecnologia e inventivo.
+###### Investimento, tecnologia e inventivo.
 
 ## API
 Projeto da api estamos desenvolvendo em Csharp (C#) .NET5. Caso queira dar uma olhada segue o nosso repositório:  ([OdevezAPI](https://github.com/LeoAzevedo59/OdevezApi))
