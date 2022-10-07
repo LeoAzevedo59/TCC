@@ -14,7 +14,7 @@ Muitos acham difícil poupar seu salário, tem impulso de gastar dinheiro, não 
 Esse trabalho busca resolver todas essas questões citadas acima, além de proporcionar 
 ajuda na hora de gerenciar seu capital, tendo uma visão ampla de onde está indo seu salário, onde estão aplicados seus investimentos e quantos eles estão rendendo, para que consiga tomar as melhores decisões. 
 
-<img src="https://i.imgur.com/AHkCUWJ.png">
+<img src="https://i.imgur.com/RrTA6tI.png">
 
 #### Aplicativos correlatos
 ###### Itaú, Nubank, caju, inter, xp, trademap, mercado pago, kinvo, rico, ifood, netflix, mobills
