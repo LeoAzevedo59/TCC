@@ -2,7 +2,7 @@
 
 ## Bem Vindo(a)
 
-Olá 👋 Meu nome é Léo Azevedo, desenvolvedor back end entusiasta de front end. Esse projeto estou fazendo para a Faculdade Integradas Einstein de Limeira, estou realizando meu Trabalho de Conclusão de Curso (TCC) junto com meu amigo Luan Davi. Juntos estamos desenvolvendo um aplicativo mobile que estará disponível em sistema Android e Ios, com intuito de ajudar pessoas e gerenciar melhor suas finanças. Temos um cronograma bem confortável de um ano, definimos todo nosso projeto no Trello, para gerenciar o que cada um irá ficar responsável e nosso professor Johanny Tetzner, orientador, acompanha nosso fluxo de trabalho. Fizemos nosso protótipo no Figma e definimos nossas regras de negócios. Acompanhe nosso trabalho, caso queira deixar um feedback ou tiver alguma dúvida estamos disponível 😄
+Olá 👋 Meu nome é Léo Azevedo, desenvolvedor back end entusiasta de front end. Esse projeto estou fazendo para a Faculdade Integradas Einstein de Limeira, estou realizando meu Trabalho de Conclusão de Curso (TCC) junto com meu amigo Luan Davi. Juntos estamos desenvolvendo um aplicativo mobile que estará disponível em sistema Android e Ios, com intuito de ajudar pessoas a gerenciar melhor suas finanças. Temos um cronograma bem confortável de um ano, definimos todo nosso projeto no Trello, para gerenciar o que cada um irá ficar responsável e nosso professor Johanny Tetzner, orientador, acompanha nosso fluxo de trabalho. Fizemos nosso protótipo no Figma e definimos nossas regras de negócios. Acompanhe nosso trabalho, caso queira deixar um feedback ou tiver alguma dúvida estamos disponível 😄
 
 ## Contato:
 
