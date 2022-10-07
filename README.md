@@ -17,10 +17,10 @@ ajuda na hora de gerenciar seu capital, tendo uma visão ampla de onde está ind
   <img src="https://i.imgur.com/xQrucaz.png">
 </div>
 #### Aplicativos correlatos
-###### Itaú, Nubank, caju, inter, xp, trademap, mercado pago, kinvo, rico, ifood, netflix, mobills
+##### Itaú, Nubank, caju, inter, xp, trademap, mercado pago, kinvo, rico, ifood, netflix, mobills
 
 #### Palavras chaves 
-###### Investimento, tecnologia e inventivo.
+##### Investimento, tecnologia e inventivo.
 
 ## API
 Projeto da api estamos desenvolvendo em Csharp (C#) .NET5. Caso queira dar uma olhada segue o nosso repositório:  [OdevezAPI](https://github.com/LeoAzevedo59/OdevezApi)
