@@ -14,12 +14,17 @@ Muitos acham difícil poupar seu salário, tem impulso de gastar dinheiro, não 
 Esse trabalho busca resolver todas essas questões citadas acima, além de proporcionar 
 ajuda na hora de gerenciar seu capital, tendo uma visão ampla de onde está indo seu salário, onde estão aplicados seus investimentos e quantos eles estão rendendo, para que consiga tomar as melhores decisões. 
 
-### Aplicativos correlatos
-Itaú, Nubank, caju, inter, xp, trademap, mercado pago, kinvo, rico, ifood, netflix, mobills
+#### Aplicativos correlatos
+### Itaú, Nubank, caju, inter, xp, trademap, mercado pago, kinvo, rico, ifood, netflix, mobills
 
-### Palavras chaves 
-Investimento, tecnologia e inventivo.
+#### Palavras chaves 
+### Investimento, tecnologia e inventivo.
 
-# API
+## API
+Projeto da api estamos desenvolvendo em Csharp (C#) .NET5. Caso queira dar uma olhada segue o nosso repositório:  ([OdevezAPI](https://github.com/LeoAzevedo59/OdevezApi))
+
+## APP
+Projeto do aplicativo estamos desenvolvendo em React native utilizando o Expo para agilizar alguns processos, segue nosso repositório: ([OdevezAPP](https://github.com/LeoAzevedo59/OdevezApp))
+
 
 
