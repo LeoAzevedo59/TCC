@@ -21,10 +21,10 @@ ajuda na hora de gerenciar seu capital, tendo uma visão ampla de onde está ind
 ###### Investimento, tecnologia e inventivo.
 
 ## API
-Projeto da api estamos desenvolvendo em Csharp (C#) .NET5. Caso queira dar uma olhada segue o nosso repositório:  ([OdevezAPI](https://github.com/LeoAzevedo59/OdevezApi))
+Projeto da api estamos desenvolvendo em Csharp (C#) .NET5. Caso queira dar uma olhada segue o nosso repositório:  [OdevezAPI](https://github.com/LeoAzevedo59/OdevezApi)
 
 ## APP
-Projeto do aplicativo estamos desenvolvendo em React native utilizando o Expo para agilizar alguns processos, segue nosso repositório: ([OdevezAPP](https://github.com/LeoAzevedo59/OdevezApp))
+Projeto do aplicativo estamos desenvolvendo em React native utilizando o Expo para agilizar alguns processos, segue nosso repositório: [OdevezAPP](https://github.com/LeoAzevedo59/OdevezApp)
 
 
 
