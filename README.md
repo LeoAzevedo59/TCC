@@ -24,6 +24,8 @@ ajuda na hora de gerenciar seu capital, tendo uma visão ampla de onde está ind
 #### Palavras chaves 
 ###### Investimento, tecnologia e inventivo.
 
+Atualmente os repositórios abaixos estão privados, sendo liberado somente para algumas pessoas. Caso precise dar uma olhada, entre em contato via LinkedIn para que eu possa fazer a liberação 😁
+
 ## API
 Projeto da api estamos desenvolvendo em Csharp (C#) .NET5. Caso queira dar uma olhada segue o nosso repositório:  [OdevezAPI](https://github.com/LeoAzevedo59/OdevezApi)
 
