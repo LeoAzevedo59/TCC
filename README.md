@@ -30,5 +30,8 @@ Projeto da api estamos desenvolvendo em Csharp (C#) .NET5. Caso queira dar uma o
 ## APP
 Projeto do aplicativo estamos desenvolvendo em React native utilizando o Expo para agilizar alguns processos, segue nosso repositório: [OdevezAPP](https://github.com/LeoAzevedo59/OdevezApp)
 
+## 🎉 Versão Alfa
+Caso deseje visualizar as funcionalidades do aplicativo, disponibilizei uma versão APK que é compatível apenas com dispositivos Android. É importante ressaltar que o aplicativo não foi testado em todos os dispositivos, portanto, caso encontre algum problema ou bug, peço que entre em contato através do endereço de e-mail: leofrancoazevedo@gmail.com
 
+https://drive.google.com/file/d/1Es5UK7hzrm9Y-0XgqDgvEH82798WjxUW/view?usp=share_link
 
