@@ -35,3 +35,13 @@ Caso deseje visualizar as funcionalidades do aplicativo, disponibilizei uma vers
 
 [DOWNLOAD](https://drive.google.com/file/d/1Es5UK7hzrm9Y-0XgqDgvEH82798WjxUW/view?usp=share_link)
 
+## Como instalar?
+
+1. Faça o download diretamente para o seu celular. Se preferir, você também pode baixar o arquivo no computador e enviá-lo por e-mail, WhatsApp ou transferência via cabo.
+2. Verifique se o nome do arquivo é "odevez-0.1.6.apk".
+3. Após o download, você encontrará a opção "Instalar" no aplicativo baixado.
+4. Após a conclusão da instalação, você verá duas opções: "Concluído" e "Abrir".
+5. O aplicativo estará disponível na tela inicial do seu celular.
+6. Crie uma conta, faça o login e divirta-se! 
+    
+Observação: É possível que o seu celular exiba uma mensagem informando que o download é de uma fonte externa. Basta clicar na opção para aceitar o download.
