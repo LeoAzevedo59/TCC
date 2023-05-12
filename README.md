@@ -33,5 +33,5 @@ Projeto do aplicativo estamos desenvolvendo em React native utilizando o Expo pa
 ## 🎉 Versão Alfa
 Caso deseje visualizar as funcionalidades do aplicativo, disponibilizei uma versão APK que é compatível apenas com dispositivos Android. É importante ressaltar que o aplicativo não foi testado em todos os dispositivos, portanto, caso encontre algum problema ou bug, peço que entre em contato através do endereço de e-mail: leofrancoazevedo@gmail.com
 
-https://drive.google.com/file/d/1Es5UK7hzrm9Y-0XgqDgvEH82798WjxUW/view?usp=share_link
+[DOWNLOAD](https://drive.google.com/file/d/1Es5UK7hzrm9Y-0XgqDgvEH82798WjxUW/view?usp=share_link)
 
